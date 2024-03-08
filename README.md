@@ -1,1 +1,19 @@
 # Previsao-do-tempo
+
+para iniciar o site será necessario que você acesse o terminal e digite
+
+...
+pip install flask
+...
+
+...
+pip install requests
+...
+
+após instalação do flask acesse o terminal e digite
+
+...
+python app.py
+...
+
+e o site será acessado
